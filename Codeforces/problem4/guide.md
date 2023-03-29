@@ -12,4 +12,4 @@ Print YES, if the boys can divide the watermelon into two parts, each of them we
 
 ## Examples
 
-
+j
