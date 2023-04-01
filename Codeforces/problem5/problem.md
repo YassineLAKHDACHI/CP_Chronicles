@@ -13,3 +13,6 @@ The input consists of five lines, each line contains five integers: the j-th int
 Print a single integer — the minimum number of moves needed to make the matrix beautiful.
 
 ## Examples
+
+![input](/Codeforces/assets/b-matrix.png)
+
