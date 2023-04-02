@@ -10,3 +10,5 @@ Print the corrected word s. If the given word s has strictly more uppercase lett
 
 ## Examples
 
+![input/output](/Codeforces/assets/word.png)
+
