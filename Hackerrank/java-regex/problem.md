@@ -7,17 +7,17 @@ Use the following definition of an IP address:
 Leading zeros are allowed. The length of A, B, C, or D can't be greater than 3.**
 
 Some valid IP address:
-000.12.12.034
-121.234.12.12
-23.45.12.56
+000.12.12.034 <br> 
+121.234.12.12 <br> 
+23.45.12.56 <br> 
 
 Some invalid IP address:
 
-000.12.234.23.23
-666.666.23.23
-.213.123.23.32
-23.45.22.32.
-I.Am.not.an.ip
+000.12.234.23.23 <br> 
+666.666.23.23 <br> 
+.213.123.23.32 <br> 
+23.45.22.32. <br> 
+I.Am.not.an.ip <br> 
 
 In this problem you will be provided strings containing any combination of ASCII characters. You have to write a regular expression to find the valid IPs.
 
@@ -26,18 +26,12 @@ Just write the MyRegex class which contains a String . The string should contain
 (MyRegex class MUST NOT be public)
 
 ### Sample Input:
-000.12.12.034
-121.234.12.12
-23.45.12.56
-00.12.123.123123.123
-122.23
-Hello.IP
+
+![input](https://github.com/yassinelakhdachi/CP_Chronicles/assets/94399032/e13f5740-3ae2-42d8-94c8-4f4b7e4000b4)
+
 
 ### Sample Output:
-true
-true
-true
-false
-false
-false
+
+
+![output](https://github.com/yassinelakhdachi/CP_Chronicles/assets/94399032/bf13d2aa-5248-4298-b58e-01fb4adf932d)
 
